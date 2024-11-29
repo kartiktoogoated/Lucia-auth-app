@@ -11,7 +11,6 @@ Form Validation: Uses robust validation for user input.
 Installation
 
 Clone the repository:
-bash
 Copy code
 git clone https://github.com/yourusername/lucia-auth-app.git
 cd lucia-auth-app
