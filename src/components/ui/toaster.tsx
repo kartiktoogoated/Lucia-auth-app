@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 import { useToast } from "@/hooks/use-toast"
+=======
+"use client"
+
+>>>>>>> ef73c23 (initial commit)
 import {
   Toast,
   ToastClose,
@@ -7,6 +12,10 @@ import {
   ToastTitle,
   ToastViewport,
 } from "@/components/ui/toast"
+<<<<<<< HEAD
+=======
+import { useToast } from "@/components/ui/use-toast"
+>>>>>>> ef73c23 (initial commit)
 
 export function Toaster() {
   const { toasts } = useToast()

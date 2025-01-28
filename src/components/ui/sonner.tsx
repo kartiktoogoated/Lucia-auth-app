@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+"use client"
+
+>>>>>>> ef73c23 (initial commit)
 import { useTheme } from "next-themes"
 import { Toaster as Sonner } from "sonner"
 

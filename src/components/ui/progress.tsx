@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+"use client"
+
+>>>>>>> ef73c23 (initial commit)
 import * as React from "react"
 import * as ProgressPrimitive from "@radix-ui/react-progress"
 
