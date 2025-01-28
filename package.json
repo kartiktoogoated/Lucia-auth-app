@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "lucia-auth-app",
-=======
-  "name": "lucia-auth-yt",
->>>>>>> ef73c23 (initial commit)
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,23 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@hookform/resolvers": "^3.9.0",
-    "@prisma/client": "^5.19.1",
-=======
-    "@hookform/resolvers": "^3.6.0",
     "@lucia-auth/adapter-prisma": "^4.0.1",
     "@prisma/client": "^5.22.0",
->>>>>>> ef73c23 (initial commit)
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
     "@radix-ui/react-aspect-ratio": "^1.1.0",
     "@radix-ui/react-avatar": "^1.1.0",
-<<<<<<< HEAD
     "@radix-ui/react-checkbox": "^1.1.1",
-=======
-    "@radix-ui/react-checkbox": "^1.1.0",
->>>>>>> ef73c23 (initial commit)
     "@radix-ui/react-collapsible": "^1.1.0",
     "@radix-ui/react-context-menu": "^2.2.1",
     "@radix-ui/react-dialog": "^1.1.1",
@@ -52,24 +39,22 @@
     "@radix-ui/react-toast": "^1.2.1",
     "@radix-ui/react-toggle": "^1.1.0",
     "@radix-ui/react-toggle-group": "^1.1.0",
-<<<<<<< HEAD
     "@radix-ui/react-tooltip": "^1.1.2",
-=======
-    "@radix-ui/react-tooltip": "^1.1.1",
     "@remixicon/react": "^4.2.0",
     "arctic": "^1.9.1",
->>>>>>> ef73c23 (initial commit)
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
-<<<<<<< HEAD
     "embla-carousel-react": "^8.2.1",
     "input-otp": "^1.2.4",
     "lodash": "^4.17.21",
+    "lucia": "^3.2.0",
     "lucide-react": "^0.439.0",
     "next": "14.2.8",
     "next-themes": "^0.3.0",
+    "oslo": "^1.2.0",
+    "prisma": "^5.22.0",
     "react": "^18",
     "react-day-picker": "^8.10.1",
     "react-dom": "^18",
@@ -84,40 +69,12 @@
   },
   "devDependencies": {
     "@types/d3-array": "^3.2.1",
-=======
-    "embla-carousel-react": "^8.1.5",
-    "input-otp": "^1.2.4",
-    "lucia": "^3.2.0",
-    "lucide-react": "^0.397.0",
-    "next": "14.2.4",
-    "next-themes": "^0.3.0",
-    "oslo": "^1.2.0",
-    "prisma": "^5.16.0",
-    "react": "^18",
-    "react-day-picker": "^8.10.1",
-    "react-dom": "^18",
-    "react-hook-form": "^7.52.0",
-    "react-resizable-panels": "^2.0.19",
-    "sonner": "^1.5.0",
-    "tailwind-merge": "^2.3.0",
-    "tailwindcss-animate": "^1.0.7",
-    "vaul": "^0.9.1",
-    "zod": "^3.23.8"
-  },
-  "devDependencies": {
->>>>>>> ef73c23 (initial commit)
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-<<<<<<< HEAD
     "eslint-config-next": "14.2.8",
     "postcss": "^8",
-    "prisma": "^5.19.1",
-=======
-    "eslint-config-next": "14.2.4",
-    "postcss": "^8",
->>>>>>> ef73c23 (initial commit)
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
